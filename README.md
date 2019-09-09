@@ -20,7 +20,7 @@ The list bellow are using [this repository](https://gist.github.com/rxaviers/736
 | :wrench:      | `:wrench:`      | Fix           |
 | :recycle:     | `:recycle:`     | Refactoring   |
 | :package:     | `:package:`     | Package.json  |
-| ::            | `:construction:`| In work       |
+| :construction:            | `:construction:`| In work       |
 | :green_heart: | `:green_heart:` | CI            |
 | :pencil:      | `:pencil:`      | Documentation |
 | :poop:        | `:poop:`        | Deprecation   |
