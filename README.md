@@ -14,7 +14,7 @@ All **branches, Pull requests and branches** should use a descriptive emoji to i
 The list bellow are using [this repository](https://gist.github.com/rxaviers/7360908)
 
 | emoji         | code            | funcionality  |
-| ------------- |:---------------:| -------------:|
+| :-----------: |:--------------- | :-------------|
 | :tada:        | `:tada:`        | Initial commit|
 | :sparkles:    | `:sparkles:`    | New feature   |
 | :wrench:      | `:wrench:`      | Fix           |
