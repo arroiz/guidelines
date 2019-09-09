@@ -9,7 +9,7 @@ Important: all letters should be lower case.
 
 ## Repository comment
 
-All **branches, Pull requests and branches** should use a descriptive emoji to ilustrate your funcionality.
+All **branches, pull requests and comments** should use a descriptive emoji to ilustrate your funcionality.
 
 The list bellow are using [this repository](https://gist.github.com/rxaviers/7360908)
 
