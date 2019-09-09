@@ -13,17 +13,17 @@ All **branches, Pull requests and branches** should use a descriptive emoji to i
 
 The list bellow are using [this repository](https://gist.github.com/rxaviers/7360908)
 
-| emoji         | code          | funcionality  |
-| ------------- |:-------------:| -------------:|
-| :tada:        | :tada:        | Initial commit|
-| :sparkles:    | :wrench:      | New feature   |
-| :wrench:      | :wrench:      | Fix           |
-| :recycle:     | :recycle:     | Refactoring   |
-| :package:     | :package:     | Package.json  |
-| ::            | :construction:| In work       |
-| :green_heart: | :green_heart: | CI            |
-| :pencil:      | :pencil:      | Documentation |
-| :poop:        | :poop:        | Deprecation   |
+| emoji         | code            | funcionality  |
+| ------------- |:---------------:| -------------:|
+| :tada:        | `:tada:`        | Initial commit|
+| :sparkles:    | `:sparkles:`    | New feature   |
+| :wrench:      | `:wrench:`      | Fix           |
+| :recycle:     | `:recycle:`     | Refactoring   |
+| :package:     | `:package:`     | Package.json  |
+| ::            | `:construction:`| In work       |
+| :green_heart: | `:green_heart:` | CI            |
+| :pencil:      | `:pencil:`      | Documentation |
+| :poop:        | `:poop:`        | Deprecation   |
 
 
 ## Readme.md
