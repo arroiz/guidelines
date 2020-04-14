@@ -1,6 +1,6 @@
 ## Patterns
 
-This document have all patterns for my projects. I decided put it in a repository to a form of documentation, also, this may be used for another people and it was open for PR or Issues to improve the quality of the process.
+This document have all patterns for my projects. I decided put it in a repository to a form of documentation.
 
 ### Repository names
 
@@ -11,7 +11,7 @@ Important: all letters should be lower case.
 
 All **commits** should use a descriptive emoji to ilustrate your funcionality.
 
-The list bellow are using [this repository](https://gist.github.com/rxaviers/7360908)
+The list bellow is using [this repository](https://gist.github.com/rxaviers/7360908)
 
 | emoji         | code            | funcionality  |
 | :-----------: |:--------------- | :-------------|
