@@ -1,6 +1,6 @@
 ## Patterns
 
-This document have all patterns for my projects. I decided put it in a repository to a form of documentation.
+This document have all patterns for my projects. I decided put it in a repository as form of documentation.
 
 ### Repository names
 
